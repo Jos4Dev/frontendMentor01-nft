@@ -1,12 +1,11 @@
 
 body{
     display: flex;
-    width: 1440px;
-    height: 900px;
     padding: 152px 0px;
     justify-content: center;
     align-items: center;
     background: var(--very-dark-blue-main-bg, #0D192C);
+    
 @media (max-width: 480px) { 
     display: flex;
     width: 375px;
